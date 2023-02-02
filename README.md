@@ -1,2 +1,2 @@
 # pricelist
-CSS review
+CSS/HTML review
